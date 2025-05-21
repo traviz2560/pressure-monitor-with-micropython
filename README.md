@@ -1,2 +1,2 @@
-# Monitor de Presion con miropython
+# Monitor de Presion con micropython
 Este sistema basado en micropython corre sobre esp32, se encarga de leer y transmitir los datos de presion hacia otros modulos conectados a la misma red LoRa, para funcionar tiene como base del proyecto un "kernel" que maneja los servicios sobre el para solicitar cambios o datos del kernel, cada servicio se encarga de una tarea y la gestion de las tareas y los accesos se realizan de forma asincrona mediante mensajes
