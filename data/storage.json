@@ -1,0 +1,1 @@
+{"clock_info": {"drift_s": 0, "last_ds3231_read_success": true, "synced_initial": true, "timestamp_epoch": 3864, "time_str": "01:04:24", "date_str": "01/01/00"}, "system_status": "CLOCK_OK", "current_temperature": 28.75, "clock_drift_seconds": 0, "current_time_str": "01:04:24", "current_date_str": "01/01/00"}
